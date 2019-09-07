@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://acoovooth.ramonbarcenas.com/sitemap.xml
